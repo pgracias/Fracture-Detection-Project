@@ -8,7 +8,7 @@
 %Emails: pgracias@ufl.edu, 
 %February 19, 2021
 % some parts of the following code were inspired by msashawky https://www.google.com/url?q=https://github.com/msashawky/bone_fracture_detection_sample/blob/master/DIP%2520Final%2520Project.m&sa=D&source=editors&ust=1619135645411000&usg=AFQjCNES-WMStKtEOG7OsQ9VIUJidUCxxw
-%The following code works well with the images chosen that are attached to the github. Other potential images that coud work are compacted fractures of the femur bone
+%The following code works well with the images chosen that are attached to the github. Other potential images that coud work are compound fractures of the femur bone
 
 clc; clear;
 %The code reads the image and converts it to grayscale if it is in RGB
