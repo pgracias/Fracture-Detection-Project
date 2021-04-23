@@ -1,6 +1,6 @@
 %BME3053C
 %Final Project: Fracture Detection 
-%Authors/Group Members: Tisana Richards, Caleb Walton
+%Authors/Group Members: Pedro Gracias, Tisana Richards, Caleb Walton
 %Course: BME 3053C Computer Applications for BME
 %Term: Spring 2021
 %J. Crayton Pruitt Family Department of Biomedical Engineering
