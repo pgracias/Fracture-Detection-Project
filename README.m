@@ -6,7 +6,7 @@
 %J. Crayton Pruitt Family Department of Biomedical Engineering
 %University of Florida
 %Emails: pgracias@ufl.edu, 
-%February 19, 2021
+%April 22, 2021
 % some parts of the following code were inspired by msashawky https://www.google.com/url?q=https://github.com/msashawky/bone_fracture_detection_sample/blob/master/DIP%2520Final%2520Project.m&sa=D&source=editors&ust=1619135645411000&usg=AFQjCNES-WMStKtEOG7OsQ9VIUJidUCxxw
 %Some of the images look better only with the edge detection part and
 %others look better with the extra dilation
